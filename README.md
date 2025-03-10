@@ -23,14 +23,15 @@ Clone the repository:
 git clone https://github.com/hamza-tahir55/AI-Powered-CSV-Analyzer-CrewAI-.git
 cd AI-Powered-CSV-Analyzer-CrewAI-
 
-## 📥 Requirements  
-```bash
+📥 Requirements
+
+Install dependencies:
 pip install -r requirements.txt
 
-## 🛠 Usage  
-```bash
-streamlit run app.py
 
+🛠 Usage
+Run the Streamlit app:
+streamlit run app.py
 
 
 

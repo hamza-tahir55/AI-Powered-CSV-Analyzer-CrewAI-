@@ -6,4 +6,5 @@ crewai
 matplotlib 
 plotly
 reportlab
-lanchain
+langchain
+

@@ -7,4 +7,5 @@ matplotlib
 plotly
 reportlab
 langchain
+langchain-community
 

@@ -8,4 +8,6 @@ plotly
 reportlab
 langchain
 langchain-community
+chromadb
+
 

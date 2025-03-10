@@ -1,0 +1,8 @@
+streamlit 
+langchain_google_genai 
+litellm 
+pandas 
+crewai 
+matplotlib 
+plotly
+reportlab

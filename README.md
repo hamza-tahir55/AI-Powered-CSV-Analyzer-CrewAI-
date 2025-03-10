@@ -21,5 +21,18 @@ Analyze, clean, forecast, and visualize CSV data using **CrewAI agents**, **Lang
 Clone the repository:  
 ```bash
 git clone https://github.com/hamza-tahir55/AI-Powered-CSV-Analyzer-CrewAI-.git
-cd csv-analyzer
+cd AI-Powered-CSV-Analyzer-CrewAI-
+
+## 📥 Requirements  
+```bash
+pip install -r requirements.txt
+
+## 🛠 Usage  
+```bash
+streamlit run app.py
+
+
+
+
+
 

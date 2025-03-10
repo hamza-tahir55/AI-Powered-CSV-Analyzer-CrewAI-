@@ -9,7 +9,7 @@ from io import BytesIO
 from crewai_tools import CodeInterpreterTool
 
 # API Setup
-os.environ["OPENAI_API_KEY"] = "AIzaSyCSq35o-1vLYe3bKjKRoGNezTJNRmDMEx0"
+os.environ["OPENAI_API_KEY"] = "Your API key"
 litellm.api_key = os.environ["OPENAI_API_KEY"]
 
 llm = ChatOpenAI(model_name="gemini/gemini-1.5-flash", temperature=0.5)
